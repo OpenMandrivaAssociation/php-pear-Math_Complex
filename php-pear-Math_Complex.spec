@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	0.8.5
-Release:	%mkrel 11
+Release:	%mkrel 12
 Summary:	Classes that define complex numbers and their operations
 License:	PHP License
 Group:		Development/PHP
