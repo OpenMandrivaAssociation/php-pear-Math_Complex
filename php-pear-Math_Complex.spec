@@ -8,7 +8,7 @@ Release:	2
 Summary:	Classes that define complex numbers and their operations
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/Math_Complex/
+URL:		https://pear.php.net/package/Math_Complex/
 Source0:	http://download.pear.php.net/package/Math_Complex-%{version}.tgz
 Requires(post): php-pear
 Requires(preun): php-pear
